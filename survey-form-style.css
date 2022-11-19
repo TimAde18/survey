@@ -1,0 +1,29 @@
+html {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1neJjHBcxhAmsRwkcJdZ1Ejopo55IEKINSA&usqp=CAU);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+body {
+    text-align: center;
+    color:darkorange;
+    border: 7px solid whitesmoke;
+    padding: 50px;
+    margin: 100px;
+    font-family: Georgia;
+    background-color:floralwhite;
+    opacity: 0.85;
+}
+
+#contact {
+    text-align: center;
+    color:darkorange;
+    border: 7px solid rgb(3, 3, 3);
+    padding: 20px;
+    margin: 100px;
+    font-family: Georgia;
+    background-color:floralwhite;
+    opacity: 0.85;
+}
